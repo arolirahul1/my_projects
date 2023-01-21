@@ -1,0 +1,20 @@
+username : rahul
+password : Rahul1234
+
+username: root
+password: Rahul1234
+
+
+install buildozer
+
+after installing:
+1] sudo apt-get install -y python3-venv 
+2]mkdir kivy2apk
+3]cd kivy2apl/
+4]python3 -m venv my_env
+5]source my_env/bin/activate
+6]gedit
+7]pip3 install --upgrade buildozer 
+8]export PATH=$PATH:~/.local/bin/
+
+
